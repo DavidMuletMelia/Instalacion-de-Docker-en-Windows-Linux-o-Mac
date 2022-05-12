@@ -2,7 +2,7 @@
 
 ## - PASOS PREVIOS -
 
-### Descargamos el `.exe` desde la pagina oficial de Docker (`https://www.docker.com/get-started/`) Hay que tener en cuenta que tienes que descargar la versión acorde a tu sistema operativo
+- Descargamos el `.exe` desde la pagina oficial de Docker (`https://www.docker.com/get-started/`) Hay que tener en cuenta que tienes que descargar la versión acorde a tu sistema operativo
 
 
 ## - INSTALACIÓN -
